@@ -1,24 +1,5 @@
-# README
+Mon Super site de poney
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Site fait à l'arrache, je n'ai pas eu le temps de me poser pour bien le faire mais il y a tous les éléments dont on a besoin pour aujourd'hui.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bisous.
